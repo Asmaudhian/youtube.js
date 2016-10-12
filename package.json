@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "bin": {
-    "mycommand": "./index.js"
+    "youtube": "./index.js"
   },
   "author": "Duncan",
   "license": "ISC",
